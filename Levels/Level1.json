@@ -1,0 +1,172 @@
+[
+    {
+        "Pos": {
+            "X": 100,
+            "Y": 240
+        },
+        "Size": {
+            "X": 0,
+            "Y": 0
+        },
+        "Type": "Text",
+        "Text": "Use A and D to move left and right"
+    },
+    {
+        "Pos": {
+            "X": 100,
+            "Y": 255
+        },
+        "Size": {
+            "X": 0,
+            "Y": 0
+        },
+        "Type": "Text",
+        "Text": "and spacebar or W to jump."
+    },
+    
+    {
+        "Pos": {
+            "X": 650,
+            "Y": 160
+        },
+        "Size": {
+            "X": 0,
+            "Y": 0
+        },
+        "Type": "Text",
+        "Text": "The Yellow object is your goal"
+    },
+    {
+        "Pos": {
+            "X": 650,
+            "Y": 175
+        },
+        "Size": {
+            "X": 0,
+            "Y": 0
+        },
+        "Type": "Text",
+        "Text": "and the orange object is where you started."
+    },
+    {
+        "Pos": {
+            "X": 912,
+            "Y": 309
+        },
+        "Size": {
+            "X": 50,
+            "Y": 25
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 0.0,
+            "Y": 720.0
+        },
+        "Size": {
+            "X": 1280.0,
+            "Y": 30.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 700.0,
+            "Y": 600.0
+        },
+        "Size": {
+            "X": 100.0,
+            "Y": 100.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 1.0,
+            "Y": 384.0
+        },
+        "Size": {
+            "X": 1278.0,
+            "Y": 335.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 330.0,
+            "Y": 270.0
+        },
+        "Size": {
+            "X": 147.0,
+            "Y": 138.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 10.0,
+            "Y": 390.0
+        },
+        "Size": {
+            "X": -10.0,
+            "Y": -384.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 1.0,
+            "Y": 4.0
+        },
+        "Size": {
+            "X": 14.0,
+            "Y": 387.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 2.0,
+            "Y": 4.0
+        },
+        "Size": {
+            "X": 1277.0,
+            "Y": 18.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 1264.0,
+            "Y": 21.0
+        },
+        "Size": {
+            "X": 15.0,
+            "Y": 372.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 583.0,
+            "Y": 21.0
+        },
+        "Size": {
+            "X": 27.0,
+            "Y": 291.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 1009.0,
+            "Y": 235.0
+        },
+        "Size": {
+            "X": 261.0,
+            "Y": 22.0
+        },
+        "Type": "Normal"
+    }
+]

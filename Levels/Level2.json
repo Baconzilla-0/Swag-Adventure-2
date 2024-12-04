@@ -1,0 +1,116 @@
+[   
+    {
+        "Pos": {
+            "X": 100,
+            "Y": 240
+        },
+        "Size": {
+            "X": 0,
+            "Y": 0
+        },
+        "Type": "Text",
+        "Text": "The Green objects are bouncy"
+    },
+    {
+        "Pos": {
+            "X": 100,
+            "Y": 255
+        },
+        "Size": {
+            "X": 0,
+            "Y": 0
+        },
+        "Type": "Text",
+        "Text": "they launch you upwards."
+    },
+    {
+        "Pos": {
+            "X": 440,
+            "Y": 670
+        },
+        "Size": {
+            "X": 0,
+            "Y": 0
+        },
+        "Type": "Text",
+        "Text": "The Red objects hurt you."
+    },
+    {
+        "Pos": {
+            "X": 0.0,
+            "Y": 720.0
+        },
+        "Size": {
+            "X": 1280.0,
+            "Y": 30.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 1.0,
+            "Y": 397.0
+        },
+        "Size": {
+            "X": 293.0,
+            "Y": 322.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 290,
+            "Y": 700
+        },
+        "Size": {
+            "X": 984,
+            "Y": 24
+        },
+        "Type": "Lava"
+    },
+    {
+        "Pos": {
+            "X": 290.0,
+            "Y": 646.0
+        },
+        "Size": {
+            "X": 130.0,
+            "Y": 35.0
+        },
+        "Type": "Jump",
+        "Power": 70
+    },
+    {
+        "Pos": {
+            "X": 676.0,
+            "Y": 391.0
+        },
+        "Size": {
+            "X": 603.0,
+            "Y": 32.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 860.0,
+            "Y": 304.0
+        },
+        "Size": {
+            "X": 140.0,
+            "Y": 30.0
+        },
+        "Type": "Normal"
+    },
+    {
+        "Pos": {
+            "X": 1095.0,
+            "Y": 232.0
+        },
+        "Size": {
+            "X": 182.0,
+            "Y": 32.0
+        },
+        "Type": "Normal"
+    }
+]

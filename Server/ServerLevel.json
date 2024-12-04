@@ -1,0 +1,37 @@
+[
+    {
+        "Pos": {
+            "X": 100,
+            "Y": 1240
+        },
+        "Size": {
+            "X": 0,
+            "Y": 0
+        },
+        "Type": "Text",
+        "Text": "You Win!!!"
+    },
+    {
+        "Pos": {
+            "X": 100,
+            "Y": 1255
+        },
+        "Size": {
+            "X": 0,
+            "Y": 0
+        },
+        "Type": "Text",
+        "Text": "Walk into the yellow to close (crash) the game :]"
+    },
+    {
+        "Pos": {
+            "X": 0.0,
+            "Y": 400.0
+        },
+        "Size": {
+            "X": 1280.0,
+            "Y": 400.0
+        },
+        "Type": "Normal"
+    }
+]
